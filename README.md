@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharkInABottle
-- 👀 I’m interested in android studio, xamarin and Unity game engine.
-- 🌱 I’m currently learning blender,
-- 💞️ I’m looking to collaborate on a video game
+- 👀 I’m interested in .NET frameworks mostly.
+- 🌱 I’m currently exploring MAUI .NET 6.
+- 💞️ I’m looking to collaborate on open source projects and freelance work.
 - 📫 How to reach me ay20@live.fr
 
 <!---
