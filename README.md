@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aymen
 - 👀 I’m interested in .NET stack mostly.
-- 🌱 I’m currently working full time symfony 6.3 projects.
+- 🌱 I’m currently working full time on symfony stack ,and ofcourse , the vanilla webkit javascript and bootstrap .
 - 💞️ .NET is a passion for me, most of my freetime projects would be full .net.
 - 📫 How to reach me ay20@live.fr
 
