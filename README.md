@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SharkInABottle
-- 👀 I’m interested in .NET frameworks mostly.
-- 🌱 I’m currently exploring MAUI .NET 6.
-- 💞️ I’m looking to collaborate on open source projects and freelance work.
+- 👋 Hi, I’m Aymen
+- 👀 I’m interested in .NET stack mostly.
+- 🌱 I’m currently working full time symfony 6.3 projects.
+- 💞️ .NET is a passion for me, most of my freetime projects would be full .net.
 - 📫 How to reach me ay20@live.fr
 
 <!---
